@@ -1,4 +1,4 @@
-# 📋 Structured Plan: Giving Property for Rent via E-Ejara (ijara.soliq.uz)
+# 📋 Structured 
 
 > **Platform:** E-Ijara — Uzbekistan's mandatory electronic system for registering real estate lease agreements with the State Tax Service.
 >
